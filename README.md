@@ -2,6 +2,8 @@
 
 BMI Flutter project.
 
+![Finished App](images/bmi.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
